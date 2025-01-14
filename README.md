@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [OJT Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OJT Monitoring](https://github.com/deecel/PHP-Project)
 
 You can contact me on my email
 deecelescano20@gmail.com
